@@ -1,2 +1,4 @@
 # A-Topological-Framework-for-Deep-Learning-From-a-Labeled-Torus-to-the-Softmax-Simplex-
 This project presents a topological interpretation of deep learning, viewing neural networks as continuous maps that deform data geometry for classification. Using a labeled torus in ℝ³, it shows how linear and ReLU layers reshape disconnected regions into a separable representation. The final softmax maps the data into the probability simplex Δ₂.
+
+https://7covwq7kubaaa4zntvrgws.streamlit.app/
